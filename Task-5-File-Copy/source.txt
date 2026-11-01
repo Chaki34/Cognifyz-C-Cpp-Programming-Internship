@@ -1,0 +1,30 @@
+
+========================================
+       COGNIFYZ TECHNOLOGIES
+       C/C++ INTERNSHIP PROGRAM
+========================================
+
+Task 5: File Copy
+
+This is a sample text file created for
+testing the File Copy program in C.
+
+Technical Concepts:
+1. File Handling
+2. File Input and Output
+3. Reading File Contents
+4. Writing File Contents
+5. Error Handling
+
+Programming Language: C
+
+Internship Organization: Cognifyz Technologies
+
+Learning Objective:
+To understand how to read data from one
+file and copy its contents into another
+file using C programming.
+
+========================================
+           END OF SAMPLE FILE
+========================================
